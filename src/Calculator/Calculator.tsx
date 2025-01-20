@@ -29,7 +29,7 @@ const FDCALculator = () => {
   };
 
   const chartData = {
-    labels: ["Principal Amounts", "Total Interest"],
+    labels: ["Principal Amounts", "Total Interestss"],
     datasets: [
       {
         data: [principal, totalInterest],
